@@ -1,0 +1,11 @@
+CD名	作者	年	月	日	进价
+*	*	2015	2	1	20
+Love	*	2016	3	5	20
+*	Michael	2016	5	2	25
+ANTi	Rihanna	2016	6	5	30
+Fade	Alan	2016	7	1	55
+Purpose	Justin	2016	8	9	40
+ARTPOP	GaGa	2017	1	20	50
+Alone	Alan	2017	3	1	45
+Castles	Coldplay	2017	5	27	40
+Gravity	Westlife	2018	2	5	60
