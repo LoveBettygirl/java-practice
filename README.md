@@ -1,2 +1,14 @@
-# java-practice
-[2018 Fall] Java homework
+# very-simple-java-practice
+记录自己在《Java语言与应用》课程上做的小作业。
+
+## 内容
+
+1. `PrimeTest`：显示 2~100 内的质数，每行显示 5 个数字
+2. `CalendarTest`：显示当前月份日历
+3. `MyLine`：编写线段类，支持求线段长度、判断两条线段是否相交等运算
+4. `CDStore`：实现一个会员制的 CD 出租销售店管理程序，支持增加会员、删除会员、出租、销售、进货、统计等功能
+5. `CommandLine`：显示命令行参数指定的系统属性（若没有命令行参数则显示所有系统属性）
+6. `Calculator`：用 Swing 实现一个计算器
+7. `SimBank`：通过多线程程序模拟银行的运作，银行和顾客分别用不同的线程实现
+8. `TextReplace`：对文本文件内容进行替换的程序
+
